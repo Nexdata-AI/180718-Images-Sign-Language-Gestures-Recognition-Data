@@ -1,8 +1,10 @@
 # 180718-Images-Sign-Language-Gestures-Recognition-Data
-https://www.datatang.ai/datasets/980
+
 
 ## Description
 180,718 Images - Sign Language Gestures Recognition Data. The data diversity includes multiple scenes, 41 static gestures, 95 dynamic gestures, multiple photographic angles, and multiple light conditions. In terms of data annotation, 21 landmarks, gesture types, and gesture attributes were annotated. This dataset can be used for tasks such as gesture recognition and sign language translation.
+
+For more details, please refer to the link: https://bit.ly/3fijxvU
 
 ## Data size
 180,718 images, including 83,013 images of static gestures, 97,705 images of dynamic gestures
@@ -30,3 +32,6 @@ sign language gestures were collected in different scenes
 
 ## Accuracy
 accuracy requirement: the point location errors in x and y directions are less than 3 pixels, which is considered as a qualified annotation; accuracy of landmark annotation: the annotation part (each landmark) is regarded as the unit, the accuracy rate shall be more than 95%
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
