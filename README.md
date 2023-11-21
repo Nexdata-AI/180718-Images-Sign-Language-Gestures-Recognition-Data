@@ -35,4 +35,4 @@ sign language gestures were collected in different scenes
 accuracy requirement: the point location errors in x and y directions are less than 3 pixels, which is considered as a qualified annotation; accuracy of landmark annotation: the annotation part (each landmark) is regarded as the unit, the accuracy rate shall be more than 95%
 
 # Licensing Information
-Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
+Commercial License
