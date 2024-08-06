@@ -4,7 +4,7 @@
 ## Description
 180,718 Images - Sign Language Gestures Recognition Data. The data diversity includes multiple scenes, 41 static gestures, 95 dynamic gestures, multiple photographic angles, and multiple light conditions. In terms of data annotation, 21 landmarks, gesture types, and gesture attributes were annotated. This dataset can be used for tasks such as gesture recognition and sign language translation.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/980?source=Github
+For more details, please refer to the link:https://www.nexdata.ai/datasets/computervision/980?source=Github
 
 
 ## Data size
